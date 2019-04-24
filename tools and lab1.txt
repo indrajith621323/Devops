@@ -1,0 +1,29 @@
+GIT -Source code management tool
+Java
+Maven -Build  tool
+Eclips
+Github 
+
+Jenkins- To check who working on what 
+ Webhook
+ pipeline
+ Master slave
+ Sonarqube integration with jenkins
+ Jenkins + Selennium
+Configuration Management 
+Puppet
+Ansilble
+Kubernetes
+Nagios 
+Docker --
+
+
+GCP-google cloud platform
+
+
+Step to push the files to the CR 
+=================================
+
+add the file 
+commit the file
+push the file

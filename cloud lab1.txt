@@ -1,0 +1,7 @@
+create bucket:
+==============
+gsutil mb gs://devops-ij-20190410
+
+Copy image from a bucket to our bucket:
+=======================================
+gsutil cp gs://simplilearn-devops-image/* gs://devops-ij-20190410
